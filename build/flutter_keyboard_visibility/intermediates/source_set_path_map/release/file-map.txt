@@ -1,0 +1,12 @@
+com.jrai.flutter_keyboard_visibility-core-1.6.0-0 C:\Users\ajdab\.gradle\caches\transforms-3\1033e36e972b24f495cbeb7edb0f8401\transformed\core-1.6.0\res
+com.jrai.flutter_keyboard_visibility-jetified-annotation-experimental-1.1.0-1 C:\Users\ajdab\.gradle\caches\transforms-3\424fe90f0bd6d50b9ed38cb53548737f\transformed\jetified-annotation-experimental-1.1.0\res
+com.jrai.flutter_keyboard_visibility-jetified-window-java-1.0.0-beta04-2 C:\Users\ajdab\.gradle\caches\transforms-3\5ddc55be9a1f9ca3021e908092377266\transformed\jetified-window-java-1.0.0-beta04\res
+com.jrai.flutter_keyboard_visibility-jetified-window-1.0.0-beta04-3 C:\Users\ajdab\.gradle\caches\transforms-3\beb1df14a36789fd46f1fa73f36b9595\transformed\jetified-window-1.0.0-beta04\res
+com.jrai.flutter_keyboard_visibility-main-4 C:\Users\ajdab\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_keyboard_visibility-5.4.1\android\src\main\res
+com.jrai.flutter_keyboard_visibility-release-5 C:\Users\ajdab\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_keyboard_visibility-5.4.1\android\src\release\res
+com.jrai.flutter_keyboard_visibility-pngs-6 C:\Users\ajdab\StudioProjects\bitcode_student_app\build\flutter_keyboard_visibility\generated\res\pngs\release
+com.jrai.flutter_keyboard_visibility-resValues-7 C:\Users\ajdab\StudioProjects\bitcode_student_app\build\flutter_keyboard_visibility\generated\res\resValues\release
+com.jrai.flutter_keyboard_visibility-rs-8 C:\Users\ajdab\StudioProjects\bitcode_student_app\build\flutter_keyboard_visibility\generated\res\rs\release
+com.jrai.flutter_keyboard_visibility-mergeReleaseResources-9 C:\Users\ajdab\StudioProjects\bitcode_student_app\build\flutter_keyboard_visibility\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.jrai.flutter_keyboard_visibility-mergeReleaseResources-10 C:\Users\ajdab\StudioProjects\bitcode_student_app\build\flutter_keyboard_visibility\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.jrai.flutter_keyboard_visibility-merged_res-11 C:\Users\ajdab\StudioProjects\bitcode_student_app\build\flutter_keyboard_visibility\intermediates\merged_res\release
